@@ -1,2 +1,2 @@
 # testKeyCodeForMac
-Test Qt key events and macOS raw keyboard raw keycode
+Test Qt key events and macOS keyboard raw keycode
